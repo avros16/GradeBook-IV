@@ -1,5 +1,5 @@
 #include <iostream>
-#include "GradeBook.h";
+#include "GradeBook.h"
 using namespace std;
 
 
